@@ -15,7 +15,7 @@
 Technician in Computer Science - Technological and Communication Axis | **Synodal Center of Novo Hamburgo Education Unit of the Evangelical Foundation (January 2020 - November 2021)**
 
 ### Projects
-**Applying Computer Vision to a Drawing Game**
+####**Applying Computer Vision to a Drawing Game**####
 
 Used The Quick, Draw! Dataset from Google to build a **CNN** to predict which object the person drew. Using the webcam, our hands are the cursor to play the game, within the objective to make the Neural Network to guest which object you drew, given a certain object by the system. The user can select a pen, rubber among other things to draw in the screen.
 
