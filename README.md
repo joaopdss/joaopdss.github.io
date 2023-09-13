@@ -23,5 +23,5 @@ Used The Quick, Draw! Dataset from Google to build a **CNN** to predict which ob
 ![](draw.gif)
 
 ## English experience
-- 40 hours In-person Engligh Language Course | **Toronto, Canada** | Hansa Language Centre.
+- 40 hours In-person Engligh Language Course in **Toronto, Canada** at Hansa Language Centre.
 - 34 hours of English conversation practice with Cambly's native English teachers.
