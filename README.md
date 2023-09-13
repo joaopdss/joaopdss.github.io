@@ -22,6 +22,13 @@ Used The Quick, Draw! Dataset from Google to build a **CNN** to predict which ob
 
 ![](draw.gif)
 
+### **Facial Expression Recognition with TensorFlow** ###
+[Publication](https://medium.com/dev-genius/facial-expression-recognition-with-tensorflow-90f6174163c3)
+
+Used Tensorflow and OpenCV to build a **CNN** and an algorithm that can detect people's emotions through facial expressions.
+
+![](facial-expression.png)
+
 ## English experience
 - 40 hours In-person Engligh Language Course in **Toronto, Canada** at Hansa Language Centre.
 - 34 hours of English conversation practice with Cambly's native English teachers.
