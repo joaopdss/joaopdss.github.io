@@ -27,7 +27,9 @@ Used The Quick, Draw! Dataset from Google to build a **CNN** to predict which ob
 
 Used Tensorflow and OpenCV to build a **CNN** and an algorithm that can detect people's emotions through facial expressions.
 
-![](facial-expression.png)
+<p align="center">
+  <img src="facial-expression.png" />
+</p>
 
 ## English experience
 - 40 hours In-person Engligh Language Course in **Toronto, Canada** at Hansa Language Centre.
