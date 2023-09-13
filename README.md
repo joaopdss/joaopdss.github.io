@@ -5,7 +5,7 @@
 - Develop indoor positioning systems based on BLE beacons using Neural Networks and Trilateration algorithms.
 - Develop Computer Vision systems for Steel industry.
 - Develop Neural Networks for Computer Vision solutions with Tensorflow.
-- Python, MongoDB, Tensorflow, Numpy, Pandas, OpenCV and Matplotlib.
+- Python, MongoDB, Tensorflow, Scikit-learn, Numpy, Pandas, OpenCV and Matplotlib.
 
 **Web Developer Internship @ Sirros IoT (November 2020 - September 2021)**
 - Develop new features and maintain ERP system
