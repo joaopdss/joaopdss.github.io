@@ -12,7 +12,7 @@
 - C#, JavaScript and SQL
 
 ### Education
-Technician in Computer Science - Technological and Communication Axis | **Synodal Center of Novo Hamburgo Education Unit of the Evangelical Foundation (January 2020 - November 2021)**
+Technician in Computer Science - Technological and Communication Axis | Synodal Center of Novo Hamburgo Education Unit of the Evangelical Foundation **(January 2020 - November 2021)**
 
 ### Projects
 #### **Applying Computer Vision to a Drawing Game** ####
