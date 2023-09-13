@@ -1,4 +1,5 @@
 # Data Scientist
+[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/joaopdss/)
 
 ## Work Experience
 **Data Scientist @ Sirros IoT (September 2021 - Present)**
