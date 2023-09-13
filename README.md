@@ -16,6 +16,7 @@ Technician in Computer Science - Technological and Communication Axis (January 2
 
 ### Projects
 **Applying Computer Vision to a Drawing Game**
-Used The Quick, Draw! Dataset from Google to build a CNN to predict which object the person drew. Using the webcam, our hands are the cursor to play the game, within the objective to make the Neural Network to guest which object you drew, given a certain object by the system. The user can select a pen, rubber among other things to draw in the screen.
-![](https://github.com/joaopdss/joaopdss.github.io/blob/main/draw.gif)
+
+Used The Quick, Draw! Dataset from Google to build a **CNN** to predict which object the person drew. Using the webcam, our hands are the cursor to play the game, within the objective to make the Neural Network to guest which object you drew, given a certain object by the system. The user can select a pen, rubber among other things to draw in the screen.
+![](draw.gif)
 
