@@ -1,8 +1,8 @@
-# Data Scientist
+# Machine Learning Engineer
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/joaopdss/) <a href="https://joaopdss.medium.com/"><img src="Medium-Symbol-Black-RGB@1x.jpg" width="70" height="50"></a>
 
 ## Work Experience
-**Data Scientist @ Sirros IoT (September 2021 - Present)**
+**Machine Learning Engineer - Computer Vision @ Sirros IoT (September 2021 - Present)**
 - Develop indoor positioning systems based on BLE beacons using Neural Networks and Trilateration algorithms.
 - Develop Computer Vision systems for Steel industry.
 - Develop Neural Networks for Computer Vision solutions with Tensorflow.
