@@ -1,8 +1,8 @@
-# Machine Learning Engineer
+# Data Scientist
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/joaopdss/) <a href="https://joaopdss.medium.com/"><img src="Medium-Symbol-Black-RGB@1x.jpg" width="70" height="50"></a>
 
 ## Work Experience
-**Machine Learning Engineer - Computer Vision @ Sirros IoT (September 2021 - Present)**
+**Data Scientist @ Sirros IoT (September 2021 - Present)**
 - Develop indoor positioning systems based on BLE beacons using Neural Networks and Trilateration algorithms.
 - Develop Computer Vision systems for Steel industry.
 - Develop Neural Networks for Computer Vision solutions with Tensorflow.
@@ -35,4 +35,4 @@ Used Tensorflow and OpenCV to build a **CNN** and an algorithm that can detect p
 
 ## English experience
 - 40 hours In-person Engligh Language Course in **Toronto, Canada** at Hansa Language Centre.
-- 34 hours of English conversation practice with Cambly's native English teachers.
+- 40 hours of English conversation practice with Cambly's native English teachers.
