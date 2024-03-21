@@ -2,8 +2,9 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/joaopdss/) <a href="https://joaopdss.medium.com/"><img src="Medium-Symbol-Black-RGB@1x.jpg" width="70" height="50"></a>
 
 ## Work Experience
+
 **Data Scientist @ Sirros IoT (September 2021 - Present)**
-- Develop indoor positioning systems based on BLE beacons using Neural Networks and Trilateration algorithms.
+- Utilized data analysis on Bluetooth signals to innovate feature engineering techniques, leading to the development of precise trilateration algorithms.
 - Develop Computer Vision systems for Steel industry.
 - Develop Neural Networks for Computer Vision solutions with Tensorflow.
 - Python, MongoDB, Tensorflow, Scikit-learn, Numpy, Pandas, OpenCV and Matplotlib.
