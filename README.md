@@ -4,9 +4,10 @@
 ## Work Experience
 
 **Data Scientist @ Sirros IoT (September 2021 - Present)**
+- Developed a regression model for temperature prediction that achieved an error rate of 1.5%
 - Utilized data analysis on Bluetooth signals to innovate feature engineering techniques, leading to the development of precise trilateration algorithms.
-- Develop Computer Vision systems for Steel industry.
-- Develop Neural Networks for Computer Vision solutions with Tensorflow.
+- Develop of Computer Vision systems for Steel industry.
+- Develop of Neural Networks for Computer Vision solutions with Tensorflow.
 - Python, MongoDB, Tensorflow, Scikit-learn, Numpy, Pandas, OpenCV and Matplotlib.
 
 **Web Developer Internship @ Sirros IoT (November 2020 - September 2021)**
