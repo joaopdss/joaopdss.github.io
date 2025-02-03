@@ -20,6 +20,13 @@ Technician in Computer Science - Technological and Communication Axis | Synodal 
 
 ## Projects
 
+### **Fashion + AI unlocked: Meet Luna, Your AI Personal Fashion Assistant** ###
+[Publication](https://joaopdss.medium.com/fashion-ai-unlocked-meet-luna-your-ai-personal-stylist-acc26e9c549a)
+
+Luna, the first AI-powered fashion assistant that offers personalized clothing recommendations with images and direct store links. Combining my love for fashion and expertise in NLP, Luna is my way of reimagining the shopping experience.
+
+![](luna-img.png)
+
 ### **Not a Black Box: How Explainable Machine Learning Transforms Lending and Saves Millions** ###
 [Publication](https://joaopdss.medium.com/not-a-black-box-how-explainable-machine-learning-transforms-lending-and-saves-millions-cb6262671867)
 
